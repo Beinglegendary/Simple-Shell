@@ -196,6 +196,6 @@ $ echo $NAME
 $
 ## Authors & Copyrights
 UWABOR COLLINS <Beinglegendary>                                                               
-Mathew
+OFEM MONDAY <Monday6984>
 ## More information
 Sodash is a simple shell unix command interpreter that is part of the alx low level programming module at Alx School and is intended to emulate the basics sh shell. All the information given in this README is based on the sodash and bash man (1) pages.
